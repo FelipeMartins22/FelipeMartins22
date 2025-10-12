@@ -20,24 +20,6 @@
 
 ---
 
-## 📈 Currently Learning
-- Web development with **HTML**, **CSS**, and **JavaScript**  
-- Backend development using **Node.js**  
-- Building dynamic interfaces with **React**  
-- **Version control** and collaboration with **Git and GitHub**
-
----
-
-## 📈 GitHub Stats
-
-<div>
-<a href="https://github.com/FelipeMartins22">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?FelipeMartins22&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?FelipeMartins22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ## 📫 Contact
 Feel free to reach out or connect with me for internship opportunities or collaborations:
 
@@ -46,3 +28,21 @@ Feel free to reach out or connect with me for internship opportunities or collab
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/FelipeMartins22">
+    <img 
+      loading="lazy" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMartins22&layout=compact&langs_count=7&theme=dracula"
+    />
+    <img 
+      loading="lazy" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api?username=FelipeMartins22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    />
+  </a>
+</div>
+
+---
