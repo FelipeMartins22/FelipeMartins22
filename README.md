@@ -1,4 +1,4 @@
-# 👋 Welcome! I'm Felipe de Lima Martins
+# 👋 Welcome! I'm Felipe 
 
 🎓 **Systems Analysis and Development Student**  
 💻 Passionate about **technology**, **software development**, and **continuous learning**  
