@@ -1,27 +1,27 @@
-# 👋 Welcome! I'm Felipe 
+# Hi, I'm Felipe
 
-🎓 **Systems Analysis and Development Student**  
-💻 Passionate about **technology**, **software development**, and **continuous learning**  
-🚀 Currently looking for an **internship opportunity** to apply my knowledge and grow professionally
-📚 Always learning new technologies and best development practices.     
-🤝 Open to collaborating on projects and learning from other developers.
+Systems Analysis and Development student, focused on software development with Java and Spring, and on building AI-powered automations.
+
+I build projects to put what I study into practice, and I'm looking for an internship where I can grow within a real development team.
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p align="left">
 
   
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="55" height="55" alt="Java"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" width="55" height="55" alt="Java"/>
   <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" width="55" height="55" alt="Spring"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="55" height="55" alt="Python"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="55" height="55" alt="Docker"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" width="55" height="55" alt="GitHub"/>
+  <img loading="lazy" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="55" height="55" alt="Git"/>
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 Feel free to reach out or connect with me for internship opportunities or collaborations:
 
 <a href = "felipedef131@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -29,7 +29,7 @@ Feel free to reach out or connect with me for internship opportunities or collab
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <a href="https://github.com/FelipeMartins22">
