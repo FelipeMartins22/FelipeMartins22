@@ -26,19 +26,3 @@ Feel free to reach out or connect with me for internship opportunities or collab
 
 <a href = "felipedef131@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipe-martins22" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/FelipeMartins22">
-    <img 
-      loading="lazy" 
-      height="180em" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMartins22&layout=compact&langs_count=7&theme=dracula"
-    />
-  </a>
-</div>
-
----
